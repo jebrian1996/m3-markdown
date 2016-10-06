@@ -11,13 +11,13 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 See `complete` branch for answers.
 
 #cd
-The 'cd' command is used to move into different directory to search files.
+The `cd` command is used to move into different directory to search files.
 
-'''
+``
 cd Desktop/Documents
-'''
+``
 
-Here's some more information about the 'cd' command:
+Here's some more information about the `cd` command:
 
-- It can be used to go up the directory using the '..' code
-- You can go all the way up the directory using the '~' command'
+- It can be used to go up the directory using the `..` code
+- You can go all the way up the directory using the `~` command
