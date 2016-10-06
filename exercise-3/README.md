@@ -13,9 +13,9 @@ See `complete` branch for answers.
 #cd
 The `cd` command is used to move into different directory to search files.
 
-``
+```
 cd Desktop/Documents
-``
+```
 
 Here's some more information about the `cd` command:
 
